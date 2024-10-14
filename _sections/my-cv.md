@@ -13,41 +13,52 @@ order: 5
   </ul>
 </div>
 
-## Education
+<div style="text-align:left;">
+  <h2>Research Experience</h2>
+  <ul>
+    <li><strong>09/2024-12/2024:</strong> Particle Physics and Astrophysics, <strong>SLAC National Accelerator Laboratory</strong><br>
+      <em>Research Assistant</em> (Supervisor: <strong>Prof. Spencer Gessner</strong>)<br>
+      <ul>
+        <li>Compton cross sections calculation for laser-based control of beam intensity</li>
+        <li>Update to the TCAV GUI and analysis tools</li>
+      </ul>
+    </li>
+    <li><strong>08/2023-08/2024:</strong> Department of Physics, <strong>University of Maryland, College Park</strong><br>
+      <em>Undergraduate Research Assistant</em> (Supervisors: <strong>Prof. Sarah Eno & Prof. Christopher Palmer</strong>)<br>
+      <ul>
+        <li>Research on the simulation and analysis of Dual-readout Calorimetry</li>
+      </ul>
+    </li>
+    <li><strong>10/2021-02/2024:</strong> School of Physics and Astronomy, <strong>Shanghai Jiao Tong University</strong><br>
+      <em>Undergraduate Research Student</em> (Supervisor: <strong>Prof. Yue Meng</strong>)<br>
+      <ul>
+        <li>A system for determination of radon diffusion coefficient in membrane materials (<strong>Radic</strong>)</li>
+        <li>Member in Ultra-low background technique R&D group of PandaX Collaboration</li>
+      </ul>
+    </li>
+    <li><strong>03/2023-08/2023:</strong> Astronomy and Astrophysics Division, <strong>Tsung-Dao Lee Institute</strong><br>
+      <em>Undergraduate Research Student</em> (Supervisor: <strong>Prof. Masahiro Ogihara</strong>)<br>
+      <ul>
+        <li>Research on the stability of unevenly spaced planetary systems</li>
+      </ul>
+    </li>
+  </ul>
 
-* **09/2024-Present:** Physics PH.D. student, **Stanford University**
-  
-* **09/2020-06/2024:** B.S. in Physics, **Shanghai Jiao Tong University**
+  <h2>Skills and Hobbies</h2>
+  <ul>
+    <li><strong>Software:</strong> C++, Python, CERN ROOT, Geant4, SolidWorks, COMSOL, LaTeX</li>
+    <li><strong>Hardware:</strong> Ultra-low radioactive technology, High-voltage technology, PCB debugging, PMT testing</li>
+    <li><strong>Language:</strong> English (TOEFL 103), Mandarin (Native)</li>
+  </ul>
 
-* **08/2023-12/2023:** Undergraduate Exchange Student, **University of Maryland, College Park**
+  <h2>Extra-curricular Experience</h2>
+  <ul>
+    <li><strong>12/2021-12/2022:</strong> <em>Co-President of the Student Union</em>, <strong>Student Union of School of Physics and Astronomy</strong></li>
+  </ul>
 
-## Research Experience
-* **09/2024-12/2024:** Particle Physics and Astrophysics, **SLAC National Accelerator Laboratory**  
-  *Research Assistant* (Supervisor: **Prof. Spencer Gessner**)  
-  * Compton cross sections calculation for laser-based control of beam intensity
-  * Update to the TCAV GUI and analysis tools
-
-* **08/2023-08/2024:** Department of Physics, **University of Maryland, College Park**  
-  *Undergraduate Research Assistant* (Supervisor: **Prof. Sarah Eno & Prof. Christopher Palmer**)  
-  * Research on the simulation and analysis of Dual-readout Calorimetry
-
-* **10/2021-02/2024:** School of Physics and Astronomy, **Shanghai Jiao Tong University**  
-  *Undergraduate Research Student* (Supervisor: **Prof. Yue Meng**)  
-  * A system for determination of radon diffusion coefficient in membrane materials (**Radic**)
-  * Member in Ultra-low background technique R&D group of PandaX Collaboration
-
-* **03/2023-08/2023:** Astronomy and Astrophysics Division, **Tsung-Dao Lee Institute**  
-  *Undergraduate Research Student* (Supervisor: **Prof. Masahiro Ogihara**)  
-  * Research on the stability of unevenly spaced planetary systems
-
-## Skills and Hobbies
-* **Software:** C++, Python, CERN ROOT, Geant4, SolidWorks, COMSOL, LaTeX
-* **Hardware:** Ultra-low radioactive technology, High-voltage technology, PCB debugging, PMT testing
-* **Language:** English (TOEFL 103), Mandarin (Native)
-
-## Extra-curricular Experience
-* **12/2021-12/2022:** *Co-President of the Student Union*, **Student Union of School of Physics and Astronomy**
-
-## Honors and Awards
-* **2024** Outstanding Graduate of Shanghai
-* **2023** Best Report First Prize, TDLI Astro-Division Winter Camp
+  <h2>Honors and Awards</h2>
+  <ul>
+    <li><strong>2024:</strong> Outstanding Graduate of Shanghai</li>
+    <li><strong>2023:</strong> Best Report First Prize, TDLI Astro-Division Winter Camp</li>
+  </ul>
+</div>
