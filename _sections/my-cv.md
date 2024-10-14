@@ -4,6 +4,15 @@ icon: fa-file
 order: 5
 ---
 
+<div style="text-align:left;">
+  <h2>Education</h2>
+  <ul>
+    <li><strong>09/2024-Present:</strong> Physics PH.D. student, <strong>Stanford University</strong></li>
+    <li><strong>09/2020-06/2024:</strong> B.S. in Physics, <strong>Shanghai Jiao Tong University</strong></li>
+    <li><strong>08/2023-12/2023:</strong> Undergraduate Exchange Student, <strong>University of Maryland, College Park</strong></li>
+  </ul>
+</div>
+
 ## Education
 
 * **09/2024-Present:** Physics PH.D. student, **Stanford University**
