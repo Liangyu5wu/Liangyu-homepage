@@ -7,8 +7,11 @@ order: 5
 <p align="left">
  
 ## Education
+
 * **09/2024-Present:** Physics PH.D. student, **Stanford University**
+  
 * **09/2020-06/2024:** B.S. in Physics, **Shanghai Jiao Tong University**
+
 * **08/2023-12/2023:** Undergraduate Exchange Student, **University of Maryland, College Park**
 
 ## Research Experience
