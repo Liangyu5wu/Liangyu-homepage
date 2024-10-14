@@ -40,7 +40,7 @@ email: liangyu5@stanford.edu
 avatar: assets/images/avatar.jpg
 
 # You'll want to customize url and baseurl for your own site:
-baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
+baseurl: "/Liangyu-homepage" # the subpath of your site, e.g. /blog
 url: "https://github.com/larrywu0/" # the base hostname & protocol for your site
 
 # Social settings
