@@ -4,8 +4,6 @@ icon: fa-file
 order: 5
 ---
 
-<p align="left">
- 
 ## Education
 
 * **09/2024-Present:** Physics PH.D. student, **Stanford University**
@@ -44,5 +42,3 @@ order: 5
 ## Honors and Awards
 * **2024** Outstanding Graduate of Shanghai
 * **2023** Best Report First Prize, TDLI Astro-Division Winter Camp
-
-</p>
