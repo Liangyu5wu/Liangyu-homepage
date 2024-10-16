@@ -1,7 +1,7 @@
 ---
+layout: page
 title: My Notes
 subtitle: some course notes and manual
-layout: "page"
 icon: fa-book
 order: 3
 ---
