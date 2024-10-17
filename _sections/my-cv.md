@@ -3,7 +3,7 @@ title: CV
 cover-photo: assets/images/universe_pic_5.jpg
 cover-photo-alt: CV cover photo
 icon: fa-file
-order: 3
+order: 2
 ---
 
 <div style="text-align:left;">
