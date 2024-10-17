@@ -1,8 +1,9 @@
-/* Add a semi-transparent overlay for each section */
 .section-background {
-    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('{{ page.cover-photo }}');
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat; /* Ensures no repetition */
+    height: 100vh; /* Full viewport height */
+    position: relative;
 }
 
 .section-background::before {
@@ -21,9 +22,9 @@
     z-index: 2;
     text-align: center;
     color: white;
-    padding: 50px;
+    padding: 50px; /* Consistent padding for content */
 }
 
 html {
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; /* Smooth scrolling */
 }
