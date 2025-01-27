@@ -1,10 +1,53 @@
 ---
 title: CV
-cover-photo: assets/images/universe_pic_5.jpg
-cover-photo-alt: CV cover photo
+<!-- cover-photo: assets/images/universe_pic_5.jpg
+cover-photo-alt: CV cover photo -->
 icon: fa-file
 order: 2
 ---
+
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  background: transparent; 
+  position: relative;
+}
+
+body::before {
+  content: "";
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+                rgba(0, 0, 0, 0.7), 
+                rgba(0, 0, 0, 0.7)
+              ), 
+              url('assets/images/universe_pic_5.jpg') no-repeat center center fixed !important;
+  background-size: cover !important;
+  z-index: 0 !important;       
+}
+</style>
+
+<div style="position: relative; text-align: center; color: white; padding: 30px; max-width: 1200px; margin: 0 auto;">
+
+  <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
+    CV
+  </h1>
+  
+  <div style="
+    display: flex; 
+    align-items: center; 
+    justify-content: center;
+    gap: 50px;
+    max-width: 100%; 
+    padding: 30px;
+    border-radius: 15px;
+    background: rgba(0, 0, 0, 0.0);
+  ">
+
 
 <div style="text-align:left;">
   <h2>Education</h2>
@@ -63,4 +106,8 @@ order: 2
     <li><strong>2024:</strong> Outstanding Graduate of Shanghai</li>
     <li><strong>2023:</strong> Best Report First Prize, TDLI Astro-Division Winter Camp</li>
   </ul>
+</div>
+
+  </div>
+
 </div>
