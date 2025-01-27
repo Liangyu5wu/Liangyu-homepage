@@ -27,7 +27,7 @@ body::before {
               ), 
               url('assets/images/universe_pic_5.jpg') no-repeat center center fixed;
   background-size: cover;
-  z-index: 1;       
+  z-index: 0;       
 }
 </style>
 
