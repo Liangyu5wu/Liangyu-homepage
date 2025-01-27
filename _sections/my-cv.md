@@ -31,10 +31,6 @@ body::before {
 }
 </style>
 
-  <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
-    CV
-  </h1>
-
 
 <div style="text-align:left;">
   <h2>Education</h2>
@@ -93,8 +89,4 @@ body::before {
     <li><strong>2024:</strong> Outstanding Graduate of Shanghai</li>
     <li><strong>2023:</strong> Best Report First Prize, TDLI Astro-Division Winter Camp</li>
   </ul>
-</div>
-
-  </div>
-
 </div>
