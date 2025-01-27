@@ -25,9 +25,9 @@ body::before {
                 rgba(0, 0, 0, 0.7), 
                 rgba(0, 0, 0, 0.7)
               ), 
-              url('assets/images/universe_pic_5.jpg') no-repeat center center fixed !important;
-  background-size: cover !important;
-  z-index: 0 !important;       
+              url('assets/images/universe_pic_5.jpg') no-repeat center center fixed;
+  background-size: cover;
+  z-index: -1;       
 }
 </style>
 
