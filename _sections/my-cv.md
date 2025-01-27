@@ -31,22 +31,9 @@ body::before {
 }
 </style>
 
-<div style="position: relative; text-align: center; color: white; padding: 30px; max-width: 1200px; margin: 0 auto;">
-
   <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
     CV
   </h1>
-  
-  <div style="
-    display: flex; 
-    align-items: center; 
-    justify-content: center;
-    gap: 50px;
-    max-width: 100%; 
-    padding: 30px;
-    border-radius: 15px;
-    background: rgba(0, 0, 0, 0.0);
-  ">
 
 
 <div style="text-align:left;">
