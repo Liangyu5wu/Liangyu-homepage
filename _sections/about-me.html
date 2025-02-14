@@ -1,71 +1,42 @@
 ---
 title: About Me
-<!-- cover-photo: assets/images/universe_pic_3.jpg
-cover-photo-alt: Bio cover photo -->
 icon: fa-user
 order: 1
+custom_css: |
+  #about-me .section-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('assets/images/universe_pic_3.jpg') no-repeat center center;
+    background-size: cover;
+    z-index: -1;
+  }
 ---
 
-<style>
-.about-me-section {
-  position: relative;
-  padding: 30px 0;
-}
-
-.about-me-section::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: linear-gradient(
-                rgba(0, 0, 0, 0.7),
-                rgba(0, 0, 0, 0.7)
-              ),
-              url('assets/images/universe_pic_3.jpg') no-repeat center center;
-  background-size: cover;
-  z-index: -1;
-}
-</style>
-
-<div style="position: relative; text-align: center; color: white; padding: 30px; max-width: 1200px; margin: 0 auto;">
-
-  <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
-    About Me
-  </h1>
-  
-  <div style="
-    display: flex; 
-    align-items: center; 
-    justify-content: center;
-    gap: 50px;
-    max-width: 100%; 
-    padding: 30px;
-    border-radius: 15px;
-    background: rgba(0, 0, 0, 0.0);
-  ">
-
-    <div style="flex: 2.0; min-width: 400px;">
-      <a href="#" class="image featured">
-        <img src="assets/images/2024_headshot.jpg" alt="My headshot (2024)" 
-             style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);" />
-      </a>
+<div class="content-wrapper" style="position: relative; ">
+  <div style="text-align: center; color: white; padding: 30px; max-width: 1200px; margin: 0 auto;">
+    <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">About Me</h1>
+    
+    <div style="display: flex; align-items: center; justify-content: center; gap: 50px; max-width: 100%; padding: 30px; border-radius: 15px; background: rgba(0, 0, 0, 0.0);">
+      <div style="flex: 2.0; min-width: 400px;">
+        <a href="#" class="image featured">
+          <img src="assets/images/2024_headshot.jpg" alt="My headshot (2024)" style="width: 100%; height: auto; border-radius: 15px; box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);" />
+        </a>
+      </div>
+      <div style="flex: 4.0; text-align: left;">
+        <p style="color: #ffffff; font-size: 20px; line-height: 1.6; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">
+          I am currently a first-year Ph.D. student in the 
+          <a href="https://physics.stanford.edu/" style="color: #ffcc00;">Stanford University, Physics Department</a>. 
+          Previously, I graduated in June 2024 from the 
+          <a href="https://www.physics.sjtu.edu.cn/en/" style="color: #ffcc00;">School of Physics and Astronomy at Shanghai Jiao Tong University</a> 
+          with a Bachelor's degree in Physics.
+        </p>
+        <p style="color: #ffffff; font-size: 20px; line-height: 1.6;">
+          My research interests are in experimental high-energy physics and some astro-particle physics.
+        </p>
+      </div>
     </div>
-
-    <div style="flex: 4.0; text-align: left;">
-      <p style="color: #ffffff; font-size: 20px; line-height: 1.6; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">
-        I am currently a first-year Ph.D. student in the 
-        <a href="https://physics.stanford.edu/" style="color: #ffcc00;">Stanford University, Physics Department</a>. 
-        Previously, I graduated in June 2024 from the 
-        <a href="https://www.physics.sjtu.edu.cn/en/" style="color: #ffcc00;">School of Physics and Astronomy at Shanghai Jiao Tong University</a> 
-        with a Bachelor's degree in Physics.
-      </p>
-      <p style="color: #ffffff; font-size: 20px; line-height: 1.6;">
-        My research interests are in experimental high-energy physics and some astro-particle physics.
-      </p>
-    </div>
-
   </div>
-
 </div>
