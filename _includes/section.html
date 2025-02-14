@@ -38,7 +38,16 @@
 	{%- endcapture -%}
 {%- endif -%}
 
-<section id="{{- _slug -}}" class="{{- _class -}}">
+<!-- <section id="{{- _slug -}}" class="{{- _class -}}">
+  <div class="container">
+    {{- _photo -}}
+    {{- _heading -}}
+    {{- include.content -}}
+  </div>
+</section> -->
+
+<section id="{{- _slug -}}" class="{{- _class -}}" style="position: relative; overflow: hidden;">
+  <div class="section-background"></div>
   <div class="container">
     {{- _photo -}}
     {{- _heading -}}
