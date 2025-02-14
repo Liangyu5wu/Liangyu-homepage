@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-<style>
-  {% for _section in site.sections %}
-    {{ _section.custom_css }}
-  {% endfor %}
-</style>
-
 {%- assign _sections = site.sections | sort: 'order' -%}
 {%- include header.html scrolly_nav=_sections -%}
 <!-- Main -->
