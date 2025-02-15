@@ -7,46 +7,32 @@ order: 1
 ---
 
 <style>
-.about-me-container {
-  margin: 0;
-  padding: 0;
+.section-background {
   background: linear-gradient(
                 rgba(0, 0, 0, 0.7), 
                 rgba(0, 0, 0, 0.7)
-              ),
+              ), 
               url('assets/images/universe_pic_3.jpg') no-repeat center center;
   background-size: cover;
-  position: relative;
-  width: 100%;
-  min-height: 100vh;
-  z-index: 0;
+  padding: 30px 0;
 }
-
 .content {
-  padding: 30px; 
   max-width: 1200px; 
   margin: 0 auto; 
-  position: relative; 
+  padding: 30px; 
   color: white; 
   text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  border-radius: 15px;
 }
 </style>
 
-<div class="about-me-container">
+<div class="section-background">
   <div class="content">
     <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
       About Me
     </h1>
-    <div style="
-      display: flex; 
-      align-items: center; 
-      justify-content: center;
-      gap: 50px;
-      max-width: 100%; 
-      padding: 30px;
-      border-radius: 15px;
-      background: rgba(0, 0, 0, 0.0);
-    ">
+    <div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
       <div style="flex: 2.0; min-width: 400px;">
         <a href="#" class="image featured">
           <img src="assets/images/2024_headshot.jpg" alt="My headshot (2024)" 
