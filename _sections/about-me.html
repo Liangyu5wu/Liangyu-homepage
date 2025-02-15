@@ -15,8 +15,6 @@ order: 1
               url('assets/images/universe_pic_3.jpg') no-repeat center center;
   background-size: cover;
   position: relative;
-  width: 100%;
-  min-height: 100vh;
 }
 .content {
   max-width: 1200px; 
@@ -25,11 +23,14 @@ order: 1
   color: white; 
   text-align: center;
 }
+.full-height {
+  min-height: 100vh;
+}
 </style>
 
-<div class="section-background">
+<div class="section-background full-height">
   <div class="content">
-    <h1 style="color: #ffffff; font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
+    <h1 style="font-size: 36px; text-shadow: 3px 3px 6px rgba(0, 0, 0, 0.7); margin-bottom: 20px;">
       About Me
     </h1>
     <div style="display: flex; align-items: center; justify-content: center; gap: 50px;">
@@ -40,14 +41,14 @@ order: 1
         </a>
       </div>
       <div style="flex: 4.0; text-align: left;">
-        <p style="color: #ffffff; font-size: 20px; line-height: 1.6; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">
+        <p style="font-size: 20px; line-height: 1.6; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);">
           I am currently a first-year Ph.D. student in the 
           <a href="https://physics.stanford.edu/" style="color: #ffcc00;">Stanford University, Physics Department</a>. 
           Previously, I graduated in June 2024 from the 
           <a href="https://www.physics.sjtu.edu.cn/en/" style="color: #ffcc00;">School of Physics and Astronomy at Shanghai Jiao Tong University</a> 
           with a Bachelor's degree in Physics.
         </p>
-        <p style="color: #ffffff; font-size: 20px; line-height: 1.6;">
+        <p style="font-size: 20px; line-height: 1.6;">
           My research interests are in experimental high-energy physics and some astro-particle physics.
         </p>
       </div>
